@@ -44,4 +44,7 @@ The projects include multiple _.pde_ files and everything that I have and I will
 If you have an **ArrayList** of Objects and you need to sort them according some property, you would make an array of the values of that property and than you would just sort the newly created array. After that you can grab the "array of indexes" from the algorithm, and according to the indexes operate on the Objects.
 
 ### TEXTBOX
-YouTube video is not uploaded...
+[on YouTube](https://www.youtube.com/watch?v=jIMp5ZJH-zA)
+
+### GREEDY PACKING ALGORITHM
+[on YouTube](https://www.youtube.com/watch?v=wWnDqtAbiy0)
